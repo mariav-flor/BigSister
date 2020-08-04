@@ -34,7 +34,9 @@ O programa tem duração de 3 meses, no qual faremos a mentoria dos participante
     * Envio de contribuição e tomar ações depois de feedbacks
     * Revisão de trabalho de outros contribuidores
 
+# Apresentação do Programa
 
+[Minorias contribuindo com Open source? Vai ter sim!](https://youtu.be/EOn9o4DoBFs?t=25599)
 
 # Contatos
 
