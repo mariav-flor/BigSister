@@ -12,6 +12,10 @@ A usabilidade ainda é um componente fundamental no campo, para que se realize o
 
 ## Interface conversacional
 
+Aplicações na computação normalmente contam com uma Interface Gráfica, Graphic User Interface (GUI)[4]. Fazem parte dessa Interface, por exemplo: botões, barra de busca, menus... Essas dão bastante liberdade para o usuário, ele navega por onde quer explorando a Interface. A Interface Conversacional, são aquelas chamadas bots, assistentes virtuais ou também aplicações invisíveis. Elas podem estar rodando no WhatsApp, Slack, WeChat, Facebook Messenger, SMS, ou ainda dentro de algum site de atendimento de alguma empresa. Elas podem ser gerenciadas por inteligência artificial ou ter uma pessoa por trás dele [4].
+
+Ao contrário da Interface Gráfica, quando você está conversando com um robô você não sabe quais são os passos que você pode fazer. É papel do robô sugeri em cada oportunidade qual será o próximo passo e destacar as funções menos conhecidas. É facil dessa forma acabar concluindo que resume-se a mensagens os bots, mas não paramos por aí! Algumas tarefas ainda são melhores de realizar por meio [4] de Interfaces, como por exemplo navegar em documentos, busca em mapas, selecionar dentre várias opçes.
+
 ## Como aplicar no meu projeto?
 
 ### 5 perguntas antes de implementar sua ideia
@@ -30,7 +34,7 @@ A usabilidade ainda é um componente fundamental no campo, para que se realize o
 
 # Aprofundamento dos estudos
 
-Gostou desse assunto? Olha aqui alguns sites legais para continuar pesquisando:
+Gostou desse assunto? Além das referências, olha aqui alguns sites legais para continuar pesquisando:
 
 - [Bots Brasil](https://medium.com/botsbrasil)
 - [UX e a tendência dos chatbots: Cases e reflexões](http://catarinasdesign.com.br/ux-e-a-tendencia-dos-chatbots-cases-e-reflexoes/)
@@ -46,3 +50,4 @@ Gostou desse assunto? Olha aqui alguns sites legais para continuar pesquisando:
 
 [3] GARRETT, Jesse James. The elements of user experience: user-centered design for the web and beyond. Pearson Education, 2010.
 
+[4]  MARIANSKY, Matty. All Talk and No Buttons: The Conversational UI. https://alistapart.com/article/all-talk-and-no-buttons-the-conversational-ui/
